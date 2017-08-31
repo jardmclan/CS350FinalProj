@@ -1,0 +1,2 @@
+This is a file for demonstrating our program.
+It's a very boring file, not sure why anyone would want to protect it.
